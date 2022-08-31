@@ -1,45 +1,45 @@
 {
     "users": [
       {
-        "id": "1234abc",
-        "username": "bear",
+        "id": "1",
+        "username": "eeve",
         "score": 55,
         "active": true
       },
       {
-        "id": "xyz123",
-        "username": "schmeb",
+        "id": "2",
+        "username": "flareon",
         "score": 550,
         "active": false
       },
       {
-        "id": "qwerty",
-        "username": "jed",
+        "id": "3",
+        "username": "Diglett",
         "score": 553,
         "active": true
       },
       {
-        "username": "bear",
+        "id": "4",
+        "username": "luke",
         "score": 55,
-        "active": true,
-        "id": "i1HYeyQ"
+        "active": true
       }
     ],
     "attempts": [
       {
-        "id": "a1",
+        "id": "1",
         "score": 5,
-        "userId": "qwerty"
+        "userId": "eeve"
       },
       {
-        "id": "bb2",
+        "id": "2",
         "score": 3,
-        "userId": "xyz123"
+        "userId": "luke"
       },
       {
-        "id": "999",
+        "id": "3",
         "score": 8,
-        "userId": "qwerty"
+        "userId": "eeve"
       }
     ]
   }
